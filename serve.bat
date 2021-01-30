@@ -9,5 +9,6 @@ set ALLOW_PONDER=true
 set PGN_URL=https://raw.githubusercontent.com/roaringroars/botpgnrepo/main/Carlsen.pgn
 set DISABLE_BOT=true
 set DISABLE_BOT=true
+set DECLINE_HARD=true
 serve
 node server.js
